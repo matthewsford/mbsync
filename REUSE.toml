@@ -1,0 +1,9 @@
+version = 1
+SPDX-PackageName = "mbsync-image"
+SPDX-PackageDownloadLocation = "https://github.com/matthewsford/mbsync-image"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 Matthew Ford <matthew@matthewford.us>"
+SPDX-License-Identifier = "GPL-2.0-or-later"
